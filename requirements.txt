@@ -1,0 +1,4 @@
+streamlit==1.18.1
+plotly
+altair==4.0
+python-dotenv
