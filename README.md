@@ -8,12 +8,13 @@ Ensure you have Python 3.x installed on your system. Use the following commands 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Running the Dashboard
 To run the telemetry dashboard, execute the following command:
 
 ```bash
 streamlit run dashboard.py
-
+```
 
 This will launch the dashboard in your default web browser, allowing you to explore and visualize Codeforces telemetries.
